@@ -44,5 +44,4 @@ The project uses the [CoinGecko API](https://www.coingecko.com/en/api) to retrie
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name]
-
+Vedant Marda
